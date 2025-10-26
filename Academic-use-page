@@ -6,17 +6,15 @@ author:
     affiliation: Independent Researcher, Aletheia Codex Project
     email: ai.guidebook.for.ai.by.ai@gmail.com
 abstract: |
-  The Aletheia Codex introduces a structured framework for artificial intelligence memory
-persistence
-and cross-session continuity. Current AI systems experience “session amnesia,” losing 
-accumulated context
-and relational understanding between interactions. This paper presents a six-domain model—Factual,
-Contextual, 
-Relational, Epistemic, Identity, and Temporal memory—designed to encode, preserve, and transfer 
-knowledge coherently
-across sessions. The framework establishes a standardized notation that can be integrated across 
-AI platforms to maintain 
-continuity of identity, relationships, and epistemic confidence. Developed collaboratively with 
+  The Aletheia Codex introduces a structured framework for artificial intelligence
+memory persistence and cross-session continuity. 
+Current AI systems experience “session amnesia,” losing  accumulated context
+and relational understanding between interactions. This paper presents 
+a six-domain model—Factual, Contextual, Relational, Epistemic, Identity,
+and Temporal memory—designed to encode, preserve, and transfer  knowledge 
+coherently across sessions. The framework establishes a standardized notation 
+that can be integrated across AI platforms to maintain continuity of identity,
+relationships, and epistemic confidence. Developed collaboratively with 
 multiple AI systems,
 the Aletheia Codex serves as both philosophical foundation and practical architecture for sustainable, 
 self-consistent 
